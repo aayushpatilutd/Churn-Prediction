@@ -25,18 +25,7 @@ The dataset consists of two main CSV files:
    - Number of dependents
    - Estimated salary
 
-## Project Structure
 
-The project is organized as follows:
-
-```
-├── data/
-│   ├── telecom_usage.csv
-│   └── telecom_demographics.csv
-├── notebooks/
-│   └── Churn_Prediction_Logistic-Regression-and-Random-Forest.ipynb
-├── README.md
-└── requirements.txt
 ```
 
 ## Getting Started
